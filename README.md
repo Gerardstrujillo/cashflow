@@ -1,9 +1,16 @@
-# cashflow
+# Cashflow
+Everything you need to build a Flutter project, powered by cashflow.
 
-A new Flutter project.
+## Creating a project
+If you're seeing this, you've probably already done this step. Congrats!
 
-## Getting Started
+```diff
+# Installation of libraries
+dart run pub get
 
-El flujo de caja es importante para la gestión financiera de una aplicación, ya que permite a los responsables tomar decisiones sobre cómo invertir y gastar el dinero de la aplicación de manera efectiva. También es útil para determinar si la aplicación es rentable y para hacer predicciones sobre el rendimiento financiero futuro de la aplicación.
-
-Es importante tener en cuenta que el flujo de caja no es lo mismo que el beneficio o el balance de una aplicación. El beneficio incluye todos los ingresos y gastos, mientras que el flujo de caja se enfoca solo en el dinero que entra y sale en un período determinado. Además, el balance muestra el valor neto de la aplicación en un momento específico, mientras que el flujo de caja muestra el dinero que entra y sale durante un período determinado.
+# Running the application
+dart run
+```
+# App
+![login](https://user-images.githubusercontent.com/88355373/209895376-344586c2-7b70-4d6c-82bc-43a4b962a1d8.png)
+![register](https://user-images.githubusercontent.com/88355373/209895432-e2af67f8-5b5c-4906-a21f-ffc63c23fa7e.png)
