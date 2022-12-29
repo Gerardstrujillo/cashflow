@@ -49,26 +49,3 @@ class LBalance {
     );
   }
 }
-
-/*
-  13 - BOXS
-    - INGRESOS
-      VENTAS EFECTIVO -> cash sales
-      COBROS VENTAS ACTIVO FIJO -> fixed assets sales receipts
-
-    - EGRESOS
-      COMPRO MERCANCIA -> i buy merchandise
-      PAGO SEGURIDAD SOCIAL -> social security payment
-      PAGO PROVEERDORES -> payment provider
-      PAGO IMPUESTOS -> pay taxes
-      PAGO SERVICIOS PUBLICOS -> payment public services
-      PAGO ALQUILER -> rent payment
-      PAGO MANTENIMIENTO -> maintenance payment
-
-    - FINANCIMIENTO
-      PRESTAMO RECIBIDO -> received loan
-      PAGO PRESTAMOS -> loan payment
-
-    - FLUJO CAJA ECONOMICO -> economic cash flow
-    - FLUJO CAJA FINANCIERO -> financial cash flow
-*/
