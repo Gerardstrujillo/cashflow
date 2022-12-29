@@ -186,7 +186,4 @@ class FirestoreMethods {
     // MESSAGE TEST
     return res;
   }
-
-  // 1.1.2 BALANCE ({ BOX }) - COLLECTION
-
 }
